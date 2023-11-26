@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026087869381",
+    "project_id": "cureme-5041d",
+    "storage_bucket": "cureme-5041d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026087869381:android:2324154e7ce0a1441489ac",
+        "android_client_info": {
+          "package_name": "com.example.cureme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MWM6ayFFU4aXXA6t5l54cwDdySZGqp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
